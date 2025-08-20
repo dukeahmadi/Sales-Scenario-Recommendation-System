@@ -1,0 +1,13 @@
+torch
+transformers>=4.21.0
+sentence-transformers
+faiss-cpu
+accelerate
+vllm
+mistral_common
+ipywidgets
+pandas
+numpy
+tqdm
+datasets
+peft
